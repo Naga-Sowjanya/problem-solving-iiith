@@ -13,8 +13,6 @@ Some changes need to be made to the web server configuration (in this case, Apac
         </Directory>
 
 
-3. restart Apache server
-
         /etc/init.d/apache2 restart
 
 Congrats !!
